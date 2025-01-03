@@ -72,7 +72,7 @@ conda install pytorch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 cpuonly -c py
 ```
 pip install resemble-enhance
 pip install -r requirements.txt
-pip install WeTextProcessing
+pip install WeTextProcessing==1.0.0
 ```
 ```
 python webui/webui.py
